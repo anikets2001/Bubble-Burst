@@ -1,6 +1,9 @@
+import HomePage from "./Pages/HomePage";
 
 const App = () => {
-  return <div className="text-red-600">Bubble-Burst</div>;
+  return (
+    <HomePage/>
+  )
 };
 
 export default App;
