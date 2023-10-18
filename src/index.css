@@ -1,3 +1,12 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+
+/*--- custom classes start ---*/
+
+.height-500 {
+    height: 500px;
+}
+
+/*--- custom classes end ---*/
